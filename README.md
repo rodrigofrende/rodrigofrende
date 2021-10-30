@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigofrende web developer
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Vue JS 
+- 🌱 I’m currently working with Vue JS and React JS
 - 📫 How to reach me rodrigo.frende@gmail.com
 
 <!---
