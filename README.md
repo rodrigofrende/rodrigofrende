@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @rodrigofrende web developer
-- 👀 I’m interested in front end development
-- 🌱 I’m currently working with Vue JS and React JS
-- 📫 How to reach me rodrigo.frende@gmail.com
+👋 Hi, I’m Rodrigo Frende, a passionate Web Developer.
+
+👀 I specialize in Front-End Development, Responsive Design, and UI/UX improvements.
+
+🌱 I’m currently working with Vue.js and React.js to build dynamic and user-friendly applications across all devices.
+
+📫 Feel free to reach out: rodrigo.frende@gmail.com
 
 <!---
 rodrigofrende/rodrigofrende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
